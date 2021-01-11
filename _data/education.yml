@@ -1,10 +1,9 @@
+- course: BSc Biology
+  institute: National and Kapodistrian University of Athens
+  dates: 2009 - 2014
+  logo: uoa.jpg
+
 - course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
-  
-- course: Explorer Fellow
-  institute: MLH Fellowship
-  dates: Fall 2020
-  logo: fellowship.svg
-  
+  institute: Athens University of Economics and Business
+  dates: 2016-2021
+  logo: aueb.jpg
